@@ -1,6 +1,3 @@
-<!-- 
-INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
--->
 <template>
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
@@ -15,6 +12,10 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                     <p id="cta-subtitle" class="flex-1 mb-6 font-light text-gray-500 dark:text-gray-400 md:text-lg">
                         Fast, secure, and effortless cryptocurrency exchanges at your fingertips
                     </p>
+                </div>
+
+                <div id="cta-image-container" class="flex justify-center mb-4">
+                    <img id="cta-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Crypto_Swap_App_1732030180/main/images/724ee6d88f8a4a1ba55ba4b19e69bffc.jpeg" alt="Crypto Exchange Image" class="max-w-full h-auto rounded-lg" />
                 </div>
 
                 <div id="cta-button-container" class="flex">
