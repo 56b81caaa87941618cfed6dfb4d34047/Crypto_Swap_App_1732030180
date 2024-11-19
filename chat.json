@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want to include in the form (e.g., amount, wallet address)?\", \"option1\": \"Amount and wallet address\", \"option2\": \"Amount, wallet address, and additional notes\"}, {\"question 2\": \"How would you like the form to be visually styled (e.g., minimalist, vibrant colors)?\", \"option1\": \"Minimalist design\", \"option2\": \"Vibrant colors and visuals\"}], \"input_token_count\": 287, \"output_token_count\": 106, \"time_taken\": \"0:00:02.648849\"}",
+        "message_id": "guest19112024153130",
+        "timestamp": "19112024153136",
+        "component_file_name": "simple_footer_component_1732030183",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form for swapping crypto",
         "message_id": "guest19112024153130",
