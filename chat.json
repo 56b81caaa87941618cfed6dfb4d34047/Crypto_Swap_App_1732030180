@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form for swapping crypto\", \"checked\": true}, {\"feature\": \"Implement a dark mode toggle\", \"checked\": false}, {\"feature\": \"Add a transaction history section\", \"checked\": false}, {\"feature\": \"Include animated graphics for crypto news\", \"checked\": false}, {\"feature\": \"Create a notifications panel for updates\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 89, \"time_taken\": \"0:00:01.621057\"}",
+        "message_id": "guest19112024154109",
+        "timestamp": "19112024154117",
+        "component_file_name": "simple_cta_component_1732030183",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue do you prefer for the background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Do you want the blue background to apply to the entire app or just specific sections?\", \"option1\": \"Entire app\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 307, \"output_token_count\": 81, \"time_taken\": \"0:00:01.541880\"}",
         "message_id": "guest19112024154109",
