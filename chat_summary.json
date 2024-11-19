@@ -6,6 +6,12 @@
         "message_id": "guest19112024153130"
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll work on adding a crypto swapping form.",
+        "timestamp": "19112024153131",
+        "message_id": "guest19112024153130"
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
